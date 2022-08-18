@@ -28,7 +28,7 @@ func main() {
 	}()
 
 	go func () {
-		for i := 0; i < 5; i++ {
+		for i := 0; i < 4; i++ {
 			fmt.Println("Execução de número 2")
 			waitgroup.Done()
 		}

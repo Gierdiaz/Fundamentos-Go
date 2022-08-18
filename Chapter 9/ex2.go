@@ -35,7 +35,7 @@ func main() {
 	}
 
 	persone.falar() // <- É um shortcut para (&persone).falar()
-	(&persone).falar() // <- PE a maneira "mais correta.""
+	(&persone).falar() // <- PE a maneira "mais correta."
 
 	dizerAlgumaCoisa(&persone) // <- Funciona
 	//dizerAlgumaCoisa(persone) // < -Não funciona
