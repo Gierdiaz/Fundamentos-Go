@@ -3,7 +3,7 @@
 - Cada goroutine adicional devem fazer um print separado.
 - Utilize waitgroups para fazer com que suas goroutines finalizem antes de o programa terminar.
 
-Parte de número 2
+Parte de número 2.
 */
 package main
 
