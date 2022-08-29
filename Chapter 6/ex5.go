@@ -1,7 +1,7 @@
 /*
 - Crie um tipo "quadrado"
 - Crie um tipo "círculo"
-- Crie um método "área" para cada tipo que calcule e retorne a área da figura
+- Crie um método "área" para cada tipo que calcule e retorne a área da figura.
     - Área do círculo: 2 * π * raio
     - Área do quadrado: lado * lado
 - Crie um tipo "figura" que defina como interface qualquer tipo que tiver o método "área"
