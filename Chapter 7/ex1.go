@@ -7,11 +7,11 @@ package main
 import ("fmt")
 
 func main() {
-	x := 0
+	z := 0
 
 	y := &x
 
-	fmt.Println("%T", x)
+	fmt.Println("%T", z)
 	fmt.Println("%T", y)
 
 }
