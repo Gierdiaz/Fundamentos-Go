@@ -9,7 +9,7 @@ import ("fmt")
 func main() {
 	z := 0
 
-	y := &x
+	y := &z
 
 	fmt.Println("%T", z)
 	fmt.Println("%T", y)
