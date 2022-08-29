@@ -1,0 +1,8 @@
+mode: set
+teste/t1.go:5.13,11.2 4 0
+teste/t1.go:13.26,15.22 2 1
+teste/t1.go:19.2,19.14 1 1
+teste/t1.go:15.22,17.3 1 1
+teste/t1.go:22.32,24.22 2 1
+teste/t1.go:28.2,28.14 1 1
+teste/t1.go:24.22,26.3 1 1
