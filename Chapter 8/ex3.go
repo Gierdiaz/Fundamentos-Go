@@ -55,7 +55,7 @@ func main() {
 
 	//fmt.Println(users)
 
-	// your code goes here
+	// Your code goes here
 
 	k := json.NewEncoder(os.Stdout)
 
